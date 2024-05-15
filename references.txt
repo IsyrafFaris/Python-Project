@@ -1,0 +1,4 @@
+//References//
+https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/python-while-else/#:~:text=Can%20we%20use%20'else'%20with,using%20a%20'break'%20statement.
+https://www.youtube.com/watch?v=b0q9vVgAMq8&t=309s&ab_channel=PaulMiskew
+https://stackoverflow.com/questions/53173087/input-in-python-to-be-only-in-string
